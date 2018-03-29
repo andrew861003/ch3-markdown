@@ -7,4 +7,12 @@ In your `README.md` document, provide some information about a terminal command 
 - An example of how it can be used (formatted as a code block);
 - A _list_ of information about the command (i.e., things that it does, or how it can be used).
 
+# Make a directory
+``` $ mkdir README.md```
+- Create new files or directory
+
+
+
+
+
 Note that you can preview this Markdown in Atom to make sure it works correctly.
