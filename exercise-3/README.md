@@ -10,9 +10,7 @@ In your `README.md` document, provide some information about a terminal command 
 # Make a directory
 ``` $ mkdir README.md```
 - Create new files or directory
-
-
-
+- enter " mkdir (filename)"
 
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
